@@ -1,6 +1,8 @@
+---
+layout: default
+title: Coming Soon
+---
 
 # Coming Soon
 
-We are working on something awesome!
-
-
+We are currently working on something awesome for you! Stay tuned for updates.
